@@ -1,7 +1,7 @@
 chartservice*
 ============
 
-A PHP webservice for generating SVG chart awesomeness.  Currently utilizes Silex and the Zeta Components Graph component.
+A PHP charting webservice for people who don’t want to write charts.  The goal ideologically is to be able to generate a chart by requesting the proper URL.  Currently utilizes Silex and the Zeta Components Graph component.
 
 ### Getting Started
 * Clone repo into your webroot somewhere
