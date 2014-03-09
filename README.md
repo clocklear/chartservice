@@ -15,7 +15,7 @@ That’s it.  You were expecting more?
     <img src="http://{pathtoservice}/pie.svg?s1=2&s2=5&s3=3&s4=7&s5=9&title=My%20Report&width=500&height=250"></img>
 
 Yields:
-![Pie Sample](docs/output/pieSample.png)
+![Pie Sample](screenshots/pieSample.png)
 
 More to come…
 
