@@ -17,6 +17,6 @@ That’s it.  You were expecting more?
 ```
 
 Yields:
-![](docs/output/pieSample.svg)
+![](docs/output/pieSample.png)
 
-More to come...
+More to come…
