@@ -1,0 +1,13 @@
+{
+    "name": "clocklear/chartservice",
+    "authors": [
+        {
+            "name": "Cory Locklear",
+            "email": "clocklear@gmail.com"
+        }
+    ],
+    "require": {
+        "silex/silex": "~1.1",
+        "zetacomponents/graph": "~1.5"
+    }
+}
